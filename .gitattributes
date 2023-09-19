@@ -1,0 +1,2 @@
+logs/lightning_logs/version_0/checkpoints/epoch=29-step=4710.ckpt filter=lfs diff=lfs merge=lfs -text
+cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
